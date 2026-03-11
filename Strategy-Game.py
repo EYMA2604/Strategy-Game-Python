@@ -1,9 +1,3 @@
-################
-## EYAL MALCI ##
-## 212735583 ###
-##### EX 7 #####
-################
-
 ##GAME SETUP##
 def get_game_setup():
     #gest number of rows and cols and checks validity.
@@ -257,4 +251,5 @@ def main():
         current_player = 2 if current_player == 1 else 1
 
 if __name__ == "__main__":
+
     main()
